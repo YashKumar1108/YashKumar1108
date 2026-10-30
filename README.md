@@ -1,5 +1,6 @@
 # 💫 About Me:
-My name is yash <br>I am physicist & I love coding and technology <br>I want to work on simulations and other computational projects<br>I am currently learning Github and Linux<br>contact me @ "contact.yashdesai@gmail.com"<br>
+
+Hi there, I am Yash nice to meet you 👋
 
 
 ## 🌐 Socials:
